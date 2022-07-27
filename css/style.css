@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Header start */
+.logo_h1{
+    font-style: italic;
+}
+.submit{
+    color: #289BDE;
+    border-color: #289BDE;
+}
+/* Header end  */
