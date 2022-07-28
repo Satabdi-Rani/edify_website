@@ -33,6 +33,12 @@ body{
 }
 /* Ready to join end */
 
+/* Trusted companies start */
+.companies img{
+    width:150px;
+}
+/* Trusted companies end */
+
 /* footer start */
 footer{
     background-color: #161616;
