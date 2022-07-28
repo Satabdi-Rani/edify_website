@@ -10,3 +10,41 @@ body{
     border-color: #289BDE;
 }
 /* Header end  */
+
+/* Discover popular courses start */
+.discover_courseDetails_p{
+    font-size: 15px;;
+}
+.h5{
+    font-weight: 700;
+}
+/* Discover popular courses end */
+
+/* Ready to join start */
+.ready_container{
+    padding: 70px 0;
+    background-color: #289BDE;
+}
+.register_button{
+    background-color: white;
+    color: #289BDE;
+    font-weight: 600;
+    padding: 10px 30px;
+}
+/* Ready to join end */
+
+/* footer start */
+footer{
+    background-color: #161616;
+    color: #999292;
+}
+.footer_details{
+    padding: 100px 0;
+}
+.social_icons{
+    margin: 16px 10px;
+    color: white;
+    border: 10px solid black;
+    border-radius: 50%;
+}
+/* footer end */
