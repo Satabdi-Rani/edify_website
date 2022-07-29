@@ -13,6 +13,13 @@ html, body{
 }
 /* Header end  */
 
+/* Image slider start */
+.carousel-item img{
+    background-color: #161616;
+    opacity: 1;
+}
+/* Image slider end */
+
 /* Discover popular courses start */
 .discover_courseDetails_p{
     font-size: 15px;;
